@@ -1,10 +1,11 @@
 #coding=UTF-8
+#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
 class common():
     """类的功能说明"""
     def mul(self,s,b):
         '''
 
-        :param s:
+        :param s: dddd
         :return:
         '''
         return self
