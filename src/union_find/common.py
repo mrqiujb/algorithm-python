@@ -1,12 +1,12 @@
 #coding=UTF-8
 class common():
     """类的功能说明"""
-    def sub(self,f,x):
-        """
-        :param f:
-        :param x:
+    def mul(self,s,b):
+        '''
+
+        :param s:
         :return:
-        """
+        '''
         return self
     def add(self,a,b):
         """两个数字相加，并返回结果"""
