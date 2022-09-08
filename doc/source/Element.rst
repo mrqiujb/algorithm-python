@@ -1,7 +1,7 @@
-common module
-=============
+Element module
+==============
 
-.. automodule:: common
+.. automodule:: Element
    :members:
    :undoc-members:
    :show-inheritance:

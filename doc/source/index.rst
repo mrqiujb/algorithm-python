@@ -1,5 +1,5 @@
 .. algorithm-python documentation master file, created by
-   sphinx-quickstart on Tue Sep  6 20:27:24 2022.
+   sphinx-quickstart on Thu Sep  8 17:02:18 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
