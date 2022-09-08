@@ -1,6 +1,5 @@
 #coding=UTF-8
-#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、
-#git remote set-url origin https://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@github.com/1903094657@qq.com/algorithm-python.git
+#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
 class common():
     """类的功能说明"""
     def mul(self,s,b):
