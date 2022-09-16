@@ -1,4 +1,6 @@
 import Element
+
+
 class BestUnionFind(object):
     def __init__(self, N: int):
         """
