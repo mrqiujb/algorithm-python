@@ -15,7 +15,7 @@
 # sys.path.insert(0, os.path.abspath('.'))
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../../src/union_find'))#指向src目录
+sys.path.insert(0, os.path.abspath('../../src/Union_Find'))#指向src目录
 
 
 # -- Project information -----------------------------------------------------
